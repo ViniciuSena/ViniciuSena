@@ -18,8 +18,7 @@ Estudo analise e desenvolvimento de sistema. Sou aspirante a programador
 </a>&nbsp;
 
 ### Você também pode gostar de:
-- [Como iniciar na area do TI do zero](https://g1.globo.com/tecnologia/noticia/2025/02/27/como-entrar-na-carreira-de-ti-que-paga-ate-r-23-mil-e-lidera-as-contratacoes-em-2025.ghtml)
-  
+- Áreas mais promissoras da TI] (https://g1.globo.com/tecnologia/noticia/2025/02/27/como-entrar-na-carreira-de-ti-que-paga-ate-r-23-mil-e-lidera-as-contratacoes-em-2025.ghtml)
 <!--
 **ViniciuSena/ViniciuSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
