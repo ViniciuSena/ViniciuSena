@@ -5,8 +5,10 @@ Estudo analise e desenvolvimento de sistema. Sou aspirante a programador
 - 🏅Apaixonado por esportes 
 - 👨🏾‍💻 Usuario de tecnologia desde a infância 
 - 🖥️ Atualmente focado em: programação web e segurança da informação
-
+<div display="inline">
+ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/31e3affb-3ffc-4f8c-b3fa-fa088561ca72" />
  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ccdf6aa5-5268-46d4-ae52-e038ba7eb960" />
+</div>
 <!--
 **ViniciuSena/ViniciuSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
