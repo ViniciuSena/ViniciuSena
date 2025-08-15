@@ -14,7 +14,7 @@ Estudo analise e desenvolvimento de sistema. Sou aspirante a programador
 
 ### Você também pode me encontrar em:
 &nbsp;<a href="https://www.linkedin.com/in/viniciusenna/">
-  <img width="20" height="20" src="https://github.com/user-attachments/assets/f83f8d8b-4841-46ab-b780-ff895f61683c">
+  <img width="50" height="200" src="https://github.com/user-attachments/assets/f83f8d8b-4841-46ab-b780-ff895f61683c">
 </a>&nbsp;
 
 <!--
