@@ -1,4 +1,7 @@
-## Hi there 👋
+## E aí 👋
+Estudo analise e desenvolvimento de sistema. Aspirante a programador
+
+🇧🇷 *Servidor público* 
 
 <!--
 **ViniciuSena/ViniciuSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
