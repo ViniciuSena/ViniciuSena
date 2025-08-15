@@ -1,8 +1,10 @@
 ## E aí 👋
-Estudo analise e desenvolvimento de sistema. Aspirante a programador
+Estudo analise e desenvolvimento de sistema. Sou aspirante a programador
 
-🇧🇷 *Servidor público* 
-
+🇧🇷 **Servidor público**
+🏅Apaixonado por esportes 
+👨🏾‍💻 Usuario de tecnologia desde a infância 
+🖥️ Atualmente focado em: programação web e segurança da informação 
 <!--
 **ViniciuSena/ViniciuSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
